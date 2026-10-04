@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PTube</string>
+    <string name="server_prompt_title">Connect PTube</string>
+    <string name="server_prompt_message">Enter the HTTPS address of your PTube server.</string>
+    <string name="server_hint">https://your-appsail-url</string>
+    <string name="connect">Connect</string>
+    <string name="invalid_url">Enter a valid HTTPS URL.</string>
+</resources>
